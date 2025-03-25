@@ -1,3 +1,4 @@
+# It's a reminder that there will be Test on Wednesday from Chapter#1,2 and Chapter#3 3.3 is included. The Test will start at sharp 8:00 AM.
 # I will conduct the Chapter 01 and Chapter 02 test on Monday; if not, it will definitely be on Wednesday
 # We are using this TextBook; Operating Systems Concepts 10th Edition
 ## https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/index.html Textbook 10th Edition Slides
