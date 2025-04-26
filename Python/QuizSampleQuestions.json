@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the capital of Japan?",
+        "options": ["Tokyo", "Seoul", "Beijing", "Bangkok"],
+        "answer": "Tokyo",
+        "category": "General Knowledge"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+        "answer": "William Shakespeare",
+        "category": "General Knowledge"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "answer": "Pacific",
+        "category": "General Knowledge"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "Japan", "Thailand", "South Korea"],
+        "answer": "Japan",
+        "category": "General Knowledge"
+    },
+    {
+        "question": "What is the currency of the United Kingdom?",
+        "options": ["Dollar", "Euro", "Pound", "Yen"],
+        "answer": "Pound",
+        "category": "General Knowledge"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+        "answer": "George Washington",
+        "category": "General Knowledge"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+        "answer": "Mount Everest",
+        "category": "General Knowledge"
+    },
+    {
+        "question": "Which planet is known as the Blue Planet?",
+        "options": ["Mars", "Earth", "Jupiter", "Venus"],
+        "answer": "Earth",
+        "category": "General Knowledge"
+    },
+    {
+        "question": "In which year did the Titanic sink?",
+        "options": ["1912", "1905", "1920", "1898"],
+        "answer": "1912",
+        "category": "General Knowledge"
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "options": ["Tomato", "Avocado", "Onion", "Pepper"],
+        "answer": "Avocado",
+        "category": "General Knowledge"
+    },
+    {
+        "question": "What is the value of π (Pi) to two decimal places?",
+        "options": ["3.14", "3.16", "3.12", "3.10"],
+        "answer": "3.14",
+        "category": "Mathematics"
+    },
+    {
+        "question": "What is the square root of 144?",
+        "options": ["10", "12", "14", "16"],
+        "answer": "12",
+        "category": "Mathematics"
+    },
+    {
+        "question": "What is 15% of 200?",
+        "options": ["25", "30", "35", "40"],
+        "answer": "30",
+        "category": "Mathematics"
+    },
+    {
+        "question": "What is the result of 7 × 8?",
+        "options": ["54", "56", "58", "60"],
+        "answer": "56",
+        "category": "Mathematics"
+    },
+    {
+        "question": "If x + 5 = 12, what is x?",
+        "options": ["5", "7", "8", "12"],
+        "answer": "7",
+        "category": "Mathematics"
+    },
+    {
+        "question": "What is the area of a circle with a radius of 3?",
+        "options": ["9π", "6π", "12π", "3π"],
+        "answer": "9π",
+        "category": "Mathematics"
+    },
+    {
+        "question": "What is 9 squared?",
+        "options": ["18", "27", "81", "72"],
+        "answer": "81",
+        "category": "Mathematics"
+    },
+    {
+        "question": "What is the sum of angles in a triangle?",
+        "options": ["90 degrees", "180 degrees", "360 degrees", "270 degrees"],
+        "answer": "180 degrees",
+        "category": "Mathematics"
+    },
+    {
+        "question": "If a train travels 60 miles in 1 hour, how far will it travel in 3 hours?",
+        "options": ["120 miles", "180 miles", "240 miles", "300 miles"],
+        "answer": "180 miles",
+        "category": "Mathematics"
+    },
+    {
+        "question": "What is the value of 5 factorial (5!)?",
+        "options": ["20", "60", "120", "24"],
+        "answer": "120",
+        "category": "Mathematics"
+    },
+    {
+        "question": "What does CPU stand for?",
+        "options": ["Central Processing Unit", "Computer Personal Unit", "Central Program Unit", "Computer Processing Unit"],
+        "answer": "Central Processing Unit",
+        "category": "Computer Science"
+    },
+    {
+        "question": "Which language is primarily used for web development?",
+        "options": ["Python", "Java", "HTML", "C++"],
+        "answer": "HTML",
+        "category": "Computer Science"
+    },
+    {
+        "question": "What does RAM stand for?",
+        "options": ["Random Access Memory", "Read Access Memory", "Rapid Access Memory", "Real Access Memory"],
+        "answer": "Random Access Memory",
+        "category": "Computer Science"
+    },
+    {
+        "question": "Which of these is an operating system?",
+        "options": ["Microsoft Word", "Linux", "Photoshop", "Excel"],
+        "answer": "Linux",
+        "category": "Computer Science"
+    },
+    {
+        "question": "What is the main function of an algorithm?",
+        "options": ["To store data", "To perform calculations", "To solve a problem", "To display output"],
+        "answer": "To solve a problem",
+        "category": "Computer Science"
+    },
+    {
+        "question": "Which type of loop is guaranteed to run at least once?",
+        "options": ["For loop", "While loop", "Do-while loop", "None of the above"],
+        "answer": "Do-while loop",
+        "category": "Computer Science"
+    },
+    {
+        "question": "What is the binary representation of the decimal number 5?",
+        "options": ["101", "100", "111", "110"],
+        "answer": "101",
+        "category": "Computer Science"
+    },
+    {
+        "question": "Which of these is a markup language?",
+        "options": ["CSS", "HTML", "Java", "Python"],
+        "answer": "HTML",
+        "category": "Computer Science"
+    },
+    {
+        "question": "What does SQL stand for?",
+        "options": ["Structured Query Language", "Sequential Query Language", "Simple Query Language", "Standard Query Language"],
+        "answer": "Structured Query Language",
+        "category": "Computer Science"
+    },
+    {
+        "question": "Which protocol is used for sending emails?",
+        "options": ["HTTP", "FTP", "SMTP", "IMAP"],
+        "answer": "SMTP",
+        "category": "Computer Science"
+    }
+]
