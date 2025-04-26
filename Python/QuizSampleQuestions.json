@@ -180,3 +180,36 @@
         "category": "Computer Science"
     }
 ]
+
+# copy this and paste in Excel Sheet and format in R/C order
+Question	Options	Answer	Category
+What is the capital of Japan?	Tokyo, Seoul, Beijing, Bangkok	Tokyo	General Knowledge
+Who wrote 'Romeo and Juliet'?	Charles Dickens, William Shakespeare, Mark Twain, Jane Austen	William Shakespeare	General Knowledge
+What is the largest ocean on Earth?	Atlantic, Indian, Arctic, Pacific	Pacific	General Knowledge
+Which country is known as the Land of the Rising Sun?	China, Japan, Thailand, South Korea	Japan	General Knowledge
+What is the currency of the United Kingdom?	Dollar, Euro, Pound, Yen	Pound	General Knowledge
+Who was the first President of the United States?	Abraham Lincoln, George Washington, Thomas Jefferson, John Adams	George Washington	General Knowledge
+What is the tallest mountain in the world?	K2, Kangchenjunga, Mount Everest, Lhotse	Mount Everest	General Knowledge
+Which planet is known as the Blue Planet?	Mars, Earth, Jupiter, Venus	Earth	General Knowledge
+In which year did the Titanic sink?	1912, 1905, 1920, 1898	1912	General Knowledge
+What is the main ingredient in guacamole?	Tomato, Avocado, Onion, Pepper	Avocado	General Knowledge
+What is the value of π (Pi) to two decimal places?	3.14, 3.16, 3.12, 3.10	3.14	Mathematics
+What is the square root of 144?	10, 12, 14, 16	12	Mathematics
+What is 15% of 200?	25, 30, 35, 40	30	Mathematics
+What is the result of 7 × 8?	54, 56, 58, 60	56	Mathematics
+If x + 5 = 12, what is x?	5, 7, 8, 12	7	Mathematics
+What is the area of a circle with a radius of 3?	9π, 6π, 12π, 3π	9π	Mathematics
+What is 9 squared?	18, 27, 81, 72	81	Mathematics
+What is the sum of angles in a triangle?	90 degrees, 180 degrees, 360 degrees, 270 degrees	180 degrees	Mathematics
+If a train travels 60 miles in 1 hour, how far will it travel in 3 hours?	120 miles, 180 miles, 240 miles, 300 miles	180 miles	Mathematics
+What is the value of 5 factorial (5!)?	20, 60, 120, 24	120	Mathematics
+What does CPU stand for?	Central Processing Unit, Computer Personal Unit, Central Program Unit, Computer Processing Unit	Central Processing Unit	Computer Science
+Which language is primarily used for web development?	Python, Java, HTML, C++	HTML	Computer Science
+What does RAM stand for?	Random Access Memory, Read Access Memory, Rapid Access Memory, Real Access Memory	Random Access Memory	Computer Science
+Which of these is an operating system?	Microsoft Word, Linux, Photoshop, Excel	Linux	Computer Science
+What is the main function of an algorithm?	To store data, To perform calculations, To solve a problem, To display output	To solve a problem	Computer Science
+Which type of loop is guaranteed to run at least once?	For loop, While loop, Do-while loop, None of the above	Do-while loop	Computer Science
+What is the binary representation of the decimal number 5?	101, 100, 111, 110	101	Computer Science
+Which of these is a markup language?	CSS, HTML, Java, Python	HTML	Computer Science
+What does SQL stand for?	Structured Query Language, Sequential Query Language, Simple Query Language, Standard Query Language	Structured Query Language	Computer Science
+Which protocol is used for sending emails?	HTTP, FTP, SMTP, IMAP	SMTP	Computer Science
