@@ -1,4 +1,4 @@
-# A FINAL test for the Python course is expected to be conducted in next week's (Week#13, 20th May 2025) Tuesday.
+# A FINAL test for the Python course is expected to be conducted in (Week#13, 20th May 2025) Tuesday.
 # https://cpu-scheduling-algorithm-visualiser.netlify.app/ CPU Scheduling Visualizer
 # A test for the Python course is expected to be conducted in next week's (Week#07) classes, either on Monday or Tuesday.
 ### https://blog.devgenius.io/execvp-system-call-in-python-everything-you-need-to-know-c402fe6886eb OS Lab2
