@@ -1,0 +1,10 @@
+Countries in Asia
+List all the full names, population, and gnp of all countries in Asia, ordered in descending order by gnp, breaking ties ordering by population in ascending order.
+English-Speaking Countries
+List the full names of all countries where English is spoken as an official language. Do this as a single multi-table query. 
+Languages in France
+List all of the languages that are spoken in France, as well as the expected number of speakers for that language (population * percentage / 100.0). Do this as a single multi-table query. Do not hard code the country code into your query. 
+Cities in China
+List all of the cities in China, whose population is more than 0.2% of China's population. The results should include the name of the city, the district, the population, and the percentage of the city's population based on the total population of China. Organize results by percentage where the city with the highest population ratio comes first in the result. Do this as a single query. Do not hard code China's country code.
+High Population
+List the full names of all countries that contain at least 2 cities of at least 5,000,000 people.
